@@ -1,0 +1,19 @@
+{
+  "title": "Barcode analysis for: Evolution of population bottleneck in symbiosis",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "Code for the barcode-sequencing analyses in Maeda et al., Evolution of population bottleneck in symbiosis: sample assignment, barcode counting, diversity and similarity measures, and the statistics reported in the figures. Raw sequencing reads are deposited in the NCBI Sequence Read Archive under BioProject PRJNA1551028.",
+  "creators": [
+    {"name": "Maeda, Tomoya", "affiliation": "Research Faculty of Agriculture, Hokkaido University, Sapporo, Japan"},
+    {"name": "Koga, Ryuichi", "affiliation": "Molecular Biosystems Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan"},
+    {"name": "Moriyama, Minoru", "affiliation": "Molecular Biosystems Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan"},
+    {"name": "Shibai, Atsushi", "affiliation": "Center for Biosystems Dynamics Research, RIKEN, Kobe, Japan"},
+    {"name": "Kotani, Hazuki", "affiliation": "Center for Biosystems Dynamics Research, RIKEN, Kobe, Japan"},
+    {"name": "Furusawa, Chikara", "affiliation": "Center for Biosystems Dynamics Research, RIKEN, Kobe, Japan"},
+    {"name": "Fukatsu, Takema", "affiliation": "Molecular Biosystems Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan"}
+  ],
+  "keywords": ["DNA barcoding", "population bottleneck", "effective population size", "symbiosis", "Plautia stali", "Escherichia coli", "Pantoea", "experimental evolution"],
+  "related_identifiers": [
+    {"identifier": "PRJNA1551028", "relation": "isSupplementTo", "scheme": "other"}
+  ]
+}
